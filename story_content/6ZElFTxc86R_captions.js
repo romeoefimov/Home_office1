@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.68.28887.0%0D%0A%0D%0A00:00:00.096%20--%3E%2000:00:05.992%0D%0A%20So,%20what%20makes%20leading%20an%20Agile%20team%20any%20different%20from%20the%20normal%20teams?%0D%0A%0D%0A"}')
